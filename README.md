@@ -16,7 +16,7 @@ This repository aims to provide basic Arduino codes for various components and p
 ## Projects and Components
 Here are the projects and components included in this repository:
 
-1. **Bluetooth Control**
+1. [**Repair Rover**](Projects/RepairRover): A 6-wheel drive truck designed for road maintenance using Arduino and sensors.
 2. **Servo Motor Control**
 3. **Ultrasonic Sensor**
 4. **LED Control**
@@ -26,8 +26,7 @@ Here are the projects and components included in this repository:
 8. **Omni Wheels RC Car**
 9. **Sumo Robot**
 10. **Robo War Robot**
-11. **Repair Rover**
-12. **Smart Parking System**
+11. **Smart Parking System**
 
 ## How to Use
 1. Clone this repository to your local machine using `git clone https://github.com/ibnearshaddotcom/Arduino-Basic-Codes.git`
