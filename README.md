@@ -43,6 +43,8 @@ We welcome contributions from the community! If you have any improvements, bug f
 4. Push to the branch (`git push origin feature-newProject`).
 5. Create a new Pull Request.
 
+To learn more about contribution - see the [CONTRIBUTING](CONTRIBUTING.md) file for details.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
