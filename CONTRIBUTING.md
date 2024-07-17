@@ -1,4 +1,4 @@
-# Contributing to Arduino Basic Codes
+# Contributing to Arduino Codes and Projects
 
 First off, thank you for considering contributing to Arduino Basic Codes! Your contributions help make this project better and more useful for everyone.
 
