@@ -1,6 +1,6 @@
-# Arduino Basic Codes
+# Arduino Codes and Projects
 
-Welcome to the Arduino Basic Codes repository! This repository contains a comprehensive collection of basic Arduino codes for a variety of components and projects. Whether you're a beginner or an experienced Arduino enthusiast, you'll find useful codes and examples to help you get started and expand your projects.
+Welcome to the Arduino Codes and Projects repository! This repository contains a comprehensive collection of basic Arduino codes for a variety of components and projects. Whether you're a beginner or an experienced Arduino enthusiast, you'll find useful codes and examples to help you get started and expand your projects.
 
 ## Table of Contents
 - [Introduction](#introduction)
